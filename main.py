@@ -15,3 +15,8 @@ if __name__ == '__main__':
         print("The Binary equivalent of {} is {}".format(ui, fill(binary, 8, "0")))
     else:
         print("The Binary equivalent of {} is {}".format(ui, fill(binary, 8, "1")))
+        
+        
+        
+# Follow me on Codeforces @ https://codeforces.com/profile/Code_Hunterz
+# Follow me on LinkedIn @ https://www.linkedin.com/in/srimath/
